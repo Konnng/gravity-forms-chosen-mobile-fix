@@ -12,8 +12,7 @@ Luckyly, [@swentel](https://github.com/swentel) faced this problem too and blogg
 
 You just need to put the `.js` to your theme's folder and add the following function into `functions.php` (just paste it at end of file or in another place of your preference).
 
-```
-php
+```php
 /**
  * Fix for chose not working on mobile devices.
  */
